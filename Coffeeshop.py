@@ -58,8 +58,8 @@ currenthour = time.ctime()[11:13]
 
 
 def manyspace():
-  global clearorcls
-	os.system(clearorcls)
+    global clearorcls
+    os.system(clearorcls)
         
         
         
